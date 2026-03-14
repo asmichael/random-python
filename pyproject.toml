@@ -8,4 +8,5 @@ dependencies = []
 dev = [
     "ipython",
     "pytest",
+    "pytest-cov",
 ]
